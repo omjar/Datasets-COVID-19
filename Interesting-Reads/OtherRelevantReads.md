@@ -17,3 +17,6 @@ Tidy format has been done by RamiKrispin found in the Datasets folder in this re
 
 **Analysing COVID-19 (2019-nCoV) outbreak data with R - part 1**
 https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/
+
+**IBM Accelerate Discovery COVID-19 graph data resources**
+https://ds-covid19.res.ibm.com/datasources
